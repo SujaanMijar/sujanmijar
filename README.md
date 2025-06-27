@@ -2,7 +2,7 @@
 # Hi 👋 I’m  Sujan Mijar
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" style="max-width: 100%; display: inline-block;">
-## 🚀 backend Developer
+🚀 backend Developer
 Welcome to my GitHub profile!
 
 ---
@@ -39,3 +39,4 @@ I do web development and I really enjoy learning languages and frameworks like P
 
 ### 🔥 Streak Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SujaanMijar&theme=radical)
+
