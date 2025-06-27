@@ -37,6 +37,5 @@ I do web development and I really enjoy learning languages and frameworks like P
 
 ---
 
-### 🔥 Streak Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SujaanMijar&theme=radical)
+
 
